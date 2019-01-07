@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "index": "https://luizr85.github.io/pwa-fanaticos/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://luizr85.github.io/pwa-fanaticos/1.1780ab6bf6ae11ef96c2.js",
+        "https://luizr85.github.io/pwa-fanaticos/5.ca52cf82dbc9506a342b.js",
+        "https://luizr85.github.io/pwa-fanaticos/6.ed16447773954695250c.js",
+        "https://luizr85.github.io/pwa-fanaticos/favicon.ico",
+        "https://luizr85.github.io/pwa-fanaticos/index.html",
+        "https://luizr85.github.io/pwa-fanaticos/main.4150e999da19210c9d5f.js",
+        "https://luizr85.github.io/pwa-fanaticos/polyfills.1ce38f82dba67bf8cf29.js",
+        "https://luizr85.github.io/pwa-fanaticos/runtime.fe632fa36d0cba4e86e8.js",
+        "https://luizr85.github.io/pwa-fanaticos/styles.5e816f8dde88d49a6284.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-128x128.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-144x144.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-152x152.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-192x192.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-384x384.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-512x512.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-72x72.png",
+        "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://luizr85.github.io/pwa-fanaticos/1.1780ab6bf6ae11ef96c2.js": "7319707c1b112eaeedf4c1160ff17a0e58706e1b",
+    "https://luizr85.github.io/pwa-fanaticos/5.ca52cf82dbc9506a342b.js": "159ccc73568163ec05c8cc5ee0791b8a807b4308",
+    "https://luizr85.github.io/pwa-fanaticos/6.ed16447773954695250c.js": "066309bb56596b29d0878d01b986fcc81b002480",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://luizr85.github.io/pwa-fanaticos/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://luizr85.github.io/pwa-fanaticos/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://luizr85.github.io/pwa-fanaticos/index.html": "3a1c1b1e2b3e213429ce166199cde6826ea2787f",
+    "https://luizr85.github.io/pwa-fanaticos/main.4150e999da19210c9d5f.js": "a369e97c73982317b3f8cd6cb5025663e9c4c7fe",
+    "https://luizr85.github.io/pwa-fanaticos/polyfills.1ce38f82dba67bf8cf29.js": "35efac68587d6024202d011a4139365d4b37942a",
+    "https://luizr85.github.io/pwa-fanaticos/runtime.fe632fa36d0cba4e86e8.js": "a7ddd39950b919b9b0004b23385811e8ba5087a4",
+    "https://luizr85.github.io/pwa-fanaticos/styles.5e816f8dde88d49a6284.css": "3673db6682cd90aca1bf415e87bea789977acf90"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
